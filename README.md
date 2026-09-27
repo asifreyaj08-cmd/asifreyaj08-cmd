@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Asif<br><img src="./Resources/Waving%20Hand.gif" alt="Waving hand"> 👨🏼‍💻</h1>
+<h1 align="center">ɧı Ƭɧɛཞɛ, ı'ɱ 𝒜𝓈𝒾𝒻<br><img src="./Resources/Waving%20Hand.gif" alt="Waving hand"> 👨🏼‍💻</h1>
 
 <p align="center">
 <samp>
